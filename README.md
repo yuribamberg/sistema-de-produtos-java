@@ -61,7 +61,7 @@ Preço: 20.50
 ## Tecnologias utilizadas
 
 * Java
-* IDE utilizada: (adicione aqui, ex: IntelliJ, VS Code, Eclipse)
+* IDE utilizada: (VS Code)
 
 ---
 
